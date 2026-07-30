@@ -1,2 +1,16 @@
-# Custom-Extention-Board
-So the nearest ac plug in my room is very far away from my table so i cant charge my laptop,phone in my table so in the side there a little place perfect for a extension board and i want to diy that
+
+# Custom-Fit Table Extension Board
+
+## Project Description
+A custom-built PVC board extension box designed to fit into a desk slot to provide power for a laptop, phone, and tablet chargers.
+
+## Components & Materials
+* Sockets (AC Power)
+* Switches
+* PVC Board (soft, easy-to-drill material)
+* Electrical Wiring & Plug
+* Mounting Hardware / Screws
+
+## Safety Measures
+* Proper insulation for high-voltage AC connections.
+* Fused power inlet for circuit protection.
